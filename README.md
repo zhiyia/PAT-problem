@@ -1,0 +1,3 @@
+# PAT-problem
+learn more about Algorithm and C language
+<p>JUST about C language....
