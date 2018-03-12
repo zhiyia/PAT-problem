@@ -12,6 +12,7 @@ int main()
 }
 
 //1000的阶乘真的是太大了。。。需要用数组来存储，然后模拟运算过程。。。不然只会得到0
+//思路一定要清晰。。
 void Print_Factorial(const int N) {
 	int i,j,upper,asize,factorial;
 	int a[10000];
